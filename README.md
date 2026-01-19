@@ -24,3 +24,4 @@ Kami
 Donar
 Flen
 Ciborg
+Mandragora
