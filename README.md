@@ -20,3 +20,4 @@ Família
 Metal core
 Glave
 Mijonir
+Kami
