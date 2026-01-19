@@ -21,3 +21,4 @@ Metal core
 Glave
 Mijonir
 Kami
+Donar
