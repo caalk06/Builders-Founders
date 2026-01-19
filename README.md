@@ -25,3 +25,4 @@ Donar
 Flen
 Ciborg
 Mandragora
+Besouro
