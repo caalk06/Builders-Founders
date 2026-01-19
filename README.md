@@ -7,3 +7,4 @@ Paquitao
 Eleven
 Antares
 Chris
+CHR
