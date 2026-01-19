@@ -28,3 +28,4 @@ Mandragora
 Besouro
 Base
 base commit
+coinbase
