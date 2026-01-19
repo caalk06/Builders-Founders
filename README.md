@@ -33,3 +33,4 @@ rf
 lanhouse
 fliperama
 The king
+Rugal
