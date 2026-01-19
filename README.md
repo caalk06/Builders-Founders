@@ -51,3 +51,4 @@ coin
 blochain
 contract
 smart
+Dollar
