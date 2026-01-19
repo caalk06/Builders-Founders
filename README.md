@@ -41,3 +41,4 @@ biblia
 empreender
 snapshot
 paz
+rede
