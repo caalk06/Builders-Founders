@@ -47,3 +47,4 @@ business
 neon
 purple
 fish
+coin
