@@ -32,3 +32,4 @@ coinbase
 rf
 lanhouse
 fliperama
+The king
