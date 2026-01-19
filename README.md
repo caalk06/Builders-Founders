@@ -50,3 +50,4 @@ fish
 coin
 blochain
 contract
+smart
